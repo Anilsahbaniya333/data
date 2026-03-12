@@ -11,14 +11,14 @@
     "CustomerID": "CUST002",
     "OrderDate": "2026-03-10T11:20:00",
     "UpdatedDate": "2026-03-10T11:30:00",
-    "Amount": 180.50
+    "Amount": 180.5
   },
   {
     "OrderID": 1003,
     "CustomerID": "CUST003",
     "OrderDate": "2026-03-11T08:05:00",
     "UpdatedDate": "2026-03-11T08:15:00",
-    "Amount": 320.00
+    "Amount": 320.0
   },
   {
     "OrderID": 1004,
@@ -32,20 +32,13 @@
     "CustomerID": "CUST005",
     "OrderDate": "2026-03-12T10:30:00",
     "UpdatedDate": "2026-03-12T10:45:00",
-    "Amount": 410.90
+    "Amount": 410.9
   },
- {
+  {
     "OrderID": 1006,
-    "CustomerID": "CUST005",
-    "OrderDate": "2026-03-12T10:30:00",
-    "UpdatedDate": "2026-03-12T10:45:00",
-    "Amount": 410.90
-  },
- {
-    "OrderID": 1007,
-    "CustomerID": "CUST005",
-    "OrderDate": "2026-03-12T10:30:00",
-    "UpdatedDate": "2026-03-12T10:45:00",
-    "Amount": 410.90
+    "CustomerID": "CUST006",
+    "OrderDate": "2026-03-12T12:00:00",
+    "UpdatedDate": "2026-03-12T12:15:00",
+    "Amount": 500.25
   }
 ]
